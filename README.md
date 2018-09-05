@@ -1,4 +1,4 @@
 # DSE1020
-Tony Hoang . 
-tunghoangt . 
-tunghoangt@gmail.com . 
+Tony Hoang <br />
+tunghoangt <br />
+tunghoangt@gmail.com <br />
