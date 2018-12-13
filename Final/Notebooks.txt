@@ -1,0 +1,14 @@
+- Tony
+Dimension Reduction - Image Data (corel image features)
+	i.e: indoor vs outdoor , cat, boat
+Clustering - Tabular Data 
+
+(Bayes: things that depend on the other)
+
+- Wenyu
+Regression - Time Series 
+Dimension Reduction - Text Data
+
+- Divya
+Classification - Tabular
+Bayes - Tabular
